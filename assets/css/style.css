@@ -1,0 +1,21 @@
+*{
+  border:0;
+  margin:0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+section{
+  display: flex;
+  gap:10px;
+  flex-wrap:wrap;
+  justify-content: space-between;
+  align-content: space-around;
+  padding:5%;
+}
+figure{
+  width:24%;
+}
+img{
+  width:100%;
+}
